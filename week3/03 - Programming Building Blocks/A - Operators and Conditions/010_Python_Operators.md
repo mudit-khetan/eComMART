@@ -27,8 +27,6 @@ Here `+` is the operator, `6` and `3` are the operands, and `9` is the result.
 
 ## 1. Arithmetic Operators
 
-![Arithmetic Operators in Python](../../../../../img/op11.png)
-
 Used to perform standard mathematical operations.
 
 ```
@@ -171,7 +169,6 @@ Shipping for 3.5kg: ₹125.00
 
 ## 2. Comparison Operators
 
-![Comparison Operators in Python](../../../../../img/op10.png)
 
 Comparison operators compare two values and always return a **Boolean** — either `True` or `False`.
 
@@ -265,7 +262,6 @@ cart != 500: True
 
 ## 3. Logical / Boolean Operators
 
-![Logical Operators in Python](../../../../../img/op9.png)
 
 Logical operators combine multiple conditions. They return `True` or `False`.
 
@@ -371,8 +367,6 @@ Step 6: False or False   → False   ← final result
 
 ## 4. Assignment Operators
 
-![Assignment Operators in Python](../../../../../img/op7.png)
-
 Assignment operators assign a value to a variable. Compound operators combine an operation with assignment in one step.
 
 ```
@@ -462,8 +456,6 @@ remove item ₹50 → ₹898
 
 ## 5. Identity Operators
 
-![Identity Operators in Python](../../../../../img/op13.png)
-
 Identity operators check whether two variables point to the **same object in memory** — not just whether they have the same value.
 
 ```
@@ -532,8 +524,6 @@ y3 = [1,2,3]  ──→ different object (equal values, different location)
 
 ## 6. Membership Operators
 
-![Membership Operators in Python](../../../../../img/op5.png)
-
 Membership operators test whether a value exists **within a sequence** (string, list, tuple, set, or dictionary).
 
 ```
@@ -594,8 +584,6 @@ False
 ---
 
 ## 7. Bitwise Operators
-
-![Bitwise Operators in Python](../../../../../img/op2.png)
 
 Bitwise operators work on numbers at the binary (bit) level. Each bit is either 0 or 1, and the operator is applied position by position.
 

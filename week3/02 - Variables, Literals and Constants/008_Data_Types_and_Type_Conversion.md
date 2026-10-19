@@ -20,7 +20,6 @@ Every value in Python has a **type**. The type tells Python what kind of data it
 | `set` | Set | `{"C101", "C204"}` | Unique buyer IDs |
 
 
-![Python Numbers](../../../img/li0.png)
 
 Check a value's type using `type()`:
 
