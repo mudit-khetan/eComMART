@@ -19,7 +19,6 @@ Congratulations! You just wrote your first program in Python.
 As you can see, this was a pretty easy task. This is the beauty of Python programming language.
 
 
-![Figure: Comments in Python — single-line with # and multi-line with triple quotes](../../img/c3.png)
 
 ### Let’s break down the different components of the code.
 
@@ -47,7 +46,7 @@ Hello, World!
 print("Hello, World!")
 ```
 
-![Figure: Running print("Hello, World!") in VS Code terminal](../../img/h1.png)
+
 
 
 
