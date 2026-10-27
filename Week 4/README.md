@@ -48,11 +48,11 @@ earlier weeks before introducing OOP.
 
 | Lesson | What you will learn |
 |---|---|
-| [Reading Files and Iterating Lines](03_File_Handling/01_Reading_Files_and_Iterating_Lines.md) | Open text files and process their contents line by line. |
+| [Reading CSV Files and Iterating Over Records](03_File_Handling/01_Reading_CSV_Files_and_Iterating_Records.md) | Read structured product records from a CSV file. |
 | [Writing and Appending Files](03_File_Handling/02_Writing_and_Appending_Files.md) | Save new content or add content to an existing file. |
 | [`with open()` and File Modes](03_File_Handling/03_with_open_and_File_Modes.md) | Manage file lifetimes and select the appropriate mode. |
-| [Working with CSV](03_File_Handling/05_Working_with_CSV.md) | Read and write row-and-column data in CSV format. |
-| [Working with JSON](03_File_Handling/04_Working_with_JSON.md) | Store and load structured data as JSON. |
+| [Working with CSV](03_File_Handling/04_Working_with_CSV.md) | Read, process, and work with row-and-column data in CSV format. |
+| [Working with JSON](03_File_Handling/05_Working_with_JSON.md) | Store and load structured data as JSON. |
 
 ### 04 - Configuration and Data
 
