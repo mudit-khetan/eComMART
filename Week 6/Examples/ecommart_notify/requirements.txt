@@ -1,0 +1,16 @@
+# EcomMART Week 6 low-stock notifier — CORE dependencies only.
+# Install from this folder with: python -m pip install -r requirements.txt
+# Python 3.10 or newer is required for these pinned versions.
+
+# Loads local LOW_STOCK_THRESHOLD from .env (via config.py).
+python-dotenv==1.2.4
+
+# Runs the local, deterministic tests without an LLM or API account.
+pytest==9.2.0
+
+# OPTIONAL / STRETCH ONLY:
+# anthropic is deliberately NOT a required dependency.
+# The optional anthropic_client.py is not imported by main.py or core tests.
+# If an instructor chooses to demonstrate the SDK separately, its version
+# should be checked on PyPI at that time. No API signup, real key, or live
+# request is part of this week's required work.
